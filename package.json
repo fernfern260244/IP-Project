@@ -1,0 +1,24 @@
+{
+  "name": "ip-project",
+  "version": "1.0.0",
+  "description": "tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": " tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+   
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernfern260244/IP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fernfern260244/IP/issues"
+  },
+  "homepage": "https://github.com/fernfern260244/IP#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
